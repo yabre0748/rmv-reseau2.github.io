@@ -1782,8 +1782,9 @@ li.top-location .address {
 .top-header .mainnav {
 	width       : 70%;
 	float       : left;
-	padding-left: 73px;
+	padding-left: 50%;
 	line-height : 94px;
+	margin-top: 50px;
 }
 
 .top-header .mainnav.fl-st-2 {
